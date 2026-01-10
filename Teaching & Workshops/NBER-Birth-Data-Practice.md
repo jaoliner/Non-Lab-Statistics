@@ -141,8 +141,7 @@ ggplot(nicu_ptb, aes(deliv_date, nic_rate)) +
   #changes the theme to look nicer
   theme_minimal()
 ```
-
-![](NBER-Birth-Data-Practice_files/figure-gfm/nicu-plot-1.png)<!-- -->
+![NICU by Preterm](nicu-plot.png)
 
 Now we’re going to look at a specific race and add a separate variable
 of interest -\> nativity!
@@ -170,7 +169,7 @@ ggplot(nicu__ptb_hisp, aes(deliv_date, nic_rate, color = nativity )) +
   theme_minimal()
 ```
 
-![](NBER-Birth-Data-Practice_files/figure-gfm/nicu-plot-hisp-1.png)<!-- -->
+![Hispanic NICU by Preterm & Nativity](nicu-plot-hisp.png)
 
 This plot above looks at Hispanic mothers and whether or not
 fluctuations in NICU admission rates are similar in preterm and
@@ -181,3 +180,4 @@ groups, maybe there is an interesting effect for a different group. Also
 feel free to look at other variables (loaded in already or not - you can
 always consult the code book!) And feel free to ask any questions you
 have! I’ll try to help as much I can :D
+
