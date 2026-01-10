@@ -11,6 +11,6 @@ Samples of published and in-progress analyses, demonstrating statistical workflo
 - Sample R workflow using CDC birth data to explore preterm birth and NICU admission rates within large data sets, demonstrating data cleaning, merging, and visualization techniques to tackle longitudinal research questions.
 
 # Contact
-For questions, please reach out via:  
+For questions or requests for full analyses, please reach out via:  
 Email: joliner13@gmail.com  
 LinkedIn: https://www.linkedin.com/in/joliner/
