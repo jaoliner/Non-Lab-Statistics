@@ -475,10 +475,6 @@ ggplot(data = merged_data, aes(x = Maternal_Age, y = PSS)) +
 
 ___
 
-
-
-
-
 #Another useful thing about ggplot is that we can pair it with tidyverse to streamline data manipulation 
 #and visualization into one code block. While I won't go too much into the capabilities of tidyverse in this
 #tutorial, it is a very helpful package for combining operations.
@@ -511,8 +507,6 @@ merged_data %>%
 #command.
 
 ___
-
-
 
 #---------Quantitative Relationships: correlations and t-tests---------
 
@@ -699,9 +693,6 @@ linear_regression_full <- lm(methylation_average ~ PSS + control1 + control2 + .
 
 ___
 
-
-
-
 #Results:
 
 
@@ -711,25 +702,7 @@ ___
 #walk-through, analyze the data yourself! Merge the files together, make some variables, and run some visualizations
 #and quantitative tests! Feel free to stick to the format used above or explore different alternatives!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+___
 
 #---------Conclusion---------
 #And that's all we have for this workshop! R is an extremely powerful tool for data analysis, and this 
@@ -741,3 +714,4 @@ ___
 #I'm apart of, feel free to reach out to my email! - joliner@ucsd.edu
 
 #Otherwise, I hope you found this interesting! 
+
