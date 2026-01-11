@@ -5,7 +5,7 @@ This repository highlights my work in Dr. Non's Epigenetic Anthropology Lab at U
 
 ## Statistical Analyses
 - Samples of published and in-progress analyses, demonstrating statistical workflows in R to be generalized to multiple projects. Workflows cover data manipulation/visualization, regression and factor analyses, and longitudinal inference/visualizations. Due to confidentiality of ongoing projects, analyses are presented without identifiable variable or data set names. **Full analyses and results are available upon request**.
-- Projects cover the effects of social determinants on individual-level and neighborhood-level health outcomes including, but not limited, chronic obstructive pulmonary diease risk factors, preterm birth indicators, and fetal death determinants.
+- Projects cover the longitudinal effects of social determinants on individual-level and neighborhood-level health outcomes including, but not limited, chronic obstructive pulmonary diease risk factors, preterm birth indicators, and fetal death determinants.
 
 
 
