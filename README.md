@@ -15,7 +15,7 @@ This repository highlights my work in Dr. Non's Epigenetic Anthropology Lab at U
 - Sample R workflow using CDC birth data to explore preterm birth and NICU admission rates within large data sets, demonstrating data cleaning, merging, and visualization techniques to tackle longitudinal research questions.
 
 *Example figure showing longitudinal NICU admission rates, reproducible via the CDC file*
-![Longitudinal NICU admits](Teaching%&%Workshops/nicu-plot.png)  
+<img src="Teaching%20&%20Workshops/nicu-plot.png" alt="Longitudinal NICU admits" width="600">
 
 # Contact
 For questions or requests for full analyses, please reach out via:  
