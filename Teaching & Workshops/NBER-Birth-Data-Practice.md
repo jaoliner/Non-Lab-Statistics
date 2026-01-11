@@ -11,8 +11,8 @@ NICU admit rates.
 
 For this tutorial, you will need to start by downloading a few birth
 data files from the CDC website:
-<https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm> Download
-years 2019-2021 from the “U.S. Data (.zip files)” header and keep track
+<https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm>  
+Download years 2019-2021 from the “U.S. Data (.zip files)” header and keep track
 of where you store them.
 
 ## Step 1; Clear current memory and load packages
@@ -180,4 +180,5 @@ groups, maybe there is an interesting effect for a different group. Also
 feel free to look at other variables (loaded in already or not - you can
 always consult the code book!) And feel free to ask any questions you
 have! I’ll try to help as much I can :D
+
 
