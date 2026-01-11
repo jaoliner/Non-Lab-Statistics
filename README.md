@@ -19,5 +19,5 @@ This repository highlights my work in Dr. Non's Epigenetic Anthropology Lab at U
 
 # Contact
 For questions or requests for full analyses, please reach out via:  
-Email: joliner13@gmail.com  
+Email: joliner13(@)gmail(.)com  
 LinkedIn: https://www.linkedin.com/in/joliner/
