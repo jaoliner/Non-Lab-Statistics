@@ -14,6 +14,9 @@ This repository highlights my work in Dr. Non's Epigenetic Anthropology Lab at U
 - Graduate-level methylation and stress analysis coding notebooks, developed and used as part of a workshop for 20+ graduate and undergraduate students in 2024 and 2025. These notebooks demonstrate hands-on workflows for epigenetic data analysis, including data processing, statistical modeling, and visualization.
 - Sample R workflow using CDC birth data to explore preterm birth and NICU admission rates within large data sets, demonstrating data cleaning, merging, and visualization techniques to tackle longitudinal research questions.
 
+*Example figure showing longitudinal NICU admission rates, reproducible via the CDC file*
+![Teaching & Workshops](nicu-plot.png)  
+
 # Contact
 For questions or requests for full analyses, please reach out via:  
 Email: joliner13@gmail.com  
