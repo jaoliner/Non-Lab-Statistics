@@ -1,4 +1,4 @@
-#This file displays a complete worklow for factor analysis regression analysis within R
+#This file displays a complete workflow for factor analysis regression analysis within R
 #This workflow covers factor score creation, heteroskedasticity management, and mixed-effects regression analyses/testing.
 
 #Factor loadings used in score construction are derived from the exploratory factor analysis described in the accompanying EFA workflow file.
@@ -87,4 +87,5 @@ car::ncvTest(base_model)  # NCV test
 #is present (which is common in biological research), a robust standard error technique can be used to obtain reliable inference.
 
 #Calculate robust standard errors
+
 rse_model <- coef_test(base_model, vcov = "CR2")
